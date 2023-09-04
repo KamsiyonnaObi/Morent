@@ -1,0 +1,148 @@
+[
+  {
+    "cartitle": "Toyota Rush",
+    "cartype": "SUV",
+    "rentprice": 72,
+    "capacity": 6,
+    "transmission": "Automatic",
+    "location": "Austin, TX",
+    "fuelcapacity": 70,
+    "description": "Fuel Efficient",
+    "image": "./car_image/Rush",
+    "renter": "",
+    "likeCount": 2
+  },
+  {
+    "cartitle": "Koenigsegg",
+    "cartype": "Sport",
+    "rentprice": 99,
+    "capacity": 2,
+    "transmission": "Manual",
+    "location": "Manhattan, NY",
+    "fuelcapacity": 90,
+    "description": "Exotic Speed",
+    "image": "./car_image/Koenigsegg",
+    "renter": "",
+    "likeCount": 1
+  },
+  {
+    "cartitle": "Nissan GT-R",
+    "cartype": "Sport",
+    "rentprice": 80,
+    "capacity": 2,
+    "transmission": "Manual",
+    "location": "Gary, IN",
+    "fuelcapacity": 80,
+    "description": "Speed",
+    "image": "./car_image/GT-R",
+    "renter": "",
+    "likeCount": 2
+  },
+  {
+    "cartitle": "Rolls-Royce",
+    "cartype": "Sport",
+    "rentprice": 96,
+    "capacity": 4,
+    "transmission": "Manual",
+    "location": "San Francisco, CA",
+    "fuelcapacity": 70,
+    "description": "Luxury",
+    "image": "./car_image/Rolls.png",
+    "renter": "",
+    "likeCount": 4
+  },
+  {
+    "cartitle": "Honda CR-V",
+    "cartype": "SUV",
+    "rentprice": 80,
+    "capacity": 6,
+    "transmission": "Manual",
+    "location": "San Francisco, CA",
+    "fuelcapacity": 80,
+    "description": "All Purpose",
+    "image": "./car_image/CR-V-alt.png",
+    "renter": "",
+    "likeCount": 5
+  },
+  {
+    "cartitle": "Honda CR-V",
+    "cartype": "SUV",
+    "rentprice": 80,
+    "capacity": 6,
+    "transmission": "Automatic",
+    "location": "Los Angeles, CA",
+    "fuelcapacity": 80,
+    "description": "All Purpose",
+    "image": "./car_image/CR-V.png",
+    "renter": "",
+    "likeCount": 4
+  },
+  {
+    "cartitle": "MGZS",
+    "cartype": "SUV",
+    "rentprice": 80,
+    "capacity": 4,
+    "transmission": "Automatic",
+    "location": "Helena, MO",
+    "fuelcapacity": 80,
+    "description": "Luxury",
+    "image": "./car_image/MGZSalt.png",
+    "renter": "",
+    "likeCount": 5
+  },
+  {
+    "cartitle": "MGZS",
+    "cartype": "SUV",
+    "rentprice": 80,
+    "capacity": 6,
+    "transmission": "Manual",
+    "location": "Helena, MO",
+    "fuelcapacity": 80,
+    "description": "All Purpose",
+    "image": "./car_image/MGZS.png",
+    "renter": "",
+    "likeCount": 1
+  },
+
+  {
+    "cartitle": "MGZX-Exclusive",
+    "cartype": "Hatchback",
+    "rentprice": 76,
+    "capacity": 4,
+    "transmission": "Electric",
+    "location": "Helena, MO",
+    "fuelcapacity": 70,
+    "description": "All Purpose",
+    "image": "./car_image/MGZS-Exclusive.png",
+    "renter": "",
+    "likeCount": 8
+  },
+
+  {
+    "cartitle": "MG ZX-Excite",
+    "cartype": "Hatchback",
+    "rentprice": 74,
+    "capacity": 4,
+    "transmission": "Automatic",
+    "location": "Helena, MO",
+    "fuelcapacity": 90,
+    "description": "All Purpose",
+    "image": "./car_image/MGZS-Excite.png",
+    "renter": "",
+    "likeCount": 6
+  },
+
+  {
+    "cartitle": "ALL New Terios",
+    "cartype": "SUV",
+    "rentprice": 80,
+    "capacity": 6,
+    "transmission": "Automatic",
+    "location": "Miami, FL",
+    "fuelcapacity": 90,
+    "description": "All Purpose",
+    "image": "./car_image/Terios.png",
+    "renter": "",
+    "likeCount": 3
+  }
+]
